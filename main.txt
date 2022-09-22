@@ -1,4 +1,2 @@
 Python
 https://raw.githubusercontent.com/Aadi-Vars/Quiz/main/python.txt
-C++
-https://raw.githubusercontent.com/Aadi-Vars/Quiz/main/python.txt
