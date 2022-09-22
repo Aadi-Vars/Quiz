@@ -1,0 +1,348 @@
+Which of the following is valid arthimetic opertor in python?
+//
+?
+<
+and
+//
+What will be the output of following expression: 'p'+'q' ?
+pq
+rs
+pqrs
+pq12
+pq
+Find the invalid indentifier from the following
+MyName
+True
+My_name
+None of these
+True
+Which of the following is invalid?
+_a=1
+__a=1
+_str_=1
+None of these
+None of these
+Which of the following is invalid variable?
+my_string_i
+1st_string
+foo
+__
+1st_string
+All keywords in Python are in ___ except three keywords.
+lowercase
+UPPERCASE
+Capitalized
+None of these
+lowercase
+Which of the following is true about variable names in Python?
+unlimited length
+all privates member must have leading and trailing underscores
+underscore and ampersand are the only two special charcters allowed
+None of these
+unlimited length
+Which of the following is an invalid statement?
+abc=100000
+a b c =100 100 100
+a,b,c=1000,2000,3000
+a_b_c=1000
+a b c =100 100 100
+What is the output of 0.1+0.2==0.3?
+True
+ False
+Machine Dependent
+Error
+ False
+Which of the following is not a complex number?
+k=2+3j
+k=complex(2,3)
+k=2+4I
+k=2+3J
+k=2+4I
+In python ~x=-(x+1) then what does ~~~~~5 evaluate to?
+-6
+-11
+11
+-5
+-6
+Which of the following is not a core data type?
+Lists
+Dictionary
+Tuples
+Class
+Class
+Python identifiers are case sensitive.
+ True
+ False
+Depends on Program
+Depends on the computer system
+ True
+Which of the following is an invalid identifier?
+CS_class_XII
+csclass12
+_csclass12
+12CS
+12CS
+The tiny inidividual unit in python program is known as ___________
+Expression
+Statement
+Token
+Comment
+Token
+Which of the following is not a token?
+Comments
+Identifiers
+Literals
+Operators
+Comments
+Which of the following are pre-defined or reserved words that convey a special meaning in programming language?
+Identifiers
+Literals
+Keywords
+Operators
+Keywords
+The different names given to different parts of a program is known as _________
+Identifiers
+Literals
+Keywords
+Operators
+Identifiers
+Which of the following literals must terminate in one line?
+Single line Strings
+Multi line strings
+Numeric Literals
+All of the above
+Single line Strings
+To include non-graphic characters in python, which of the following is used?
+Special Literals
+Boolean Literals
+Escape Character Sequence
+Special Literal – None
+Escape Character Sequence
+The octal literal and hexadecimal literals start with which of the following symbols resepctively?
+O0 and X0
+0O and 0X
+Oct0 and Hex0
+0o and 0x
+0o and 0x
+Which of the following literal has either True or False value?
+Special Literals
+Boolean Literals
+Numeric Literals
+String Literals
+Boolean Literals
+Which of the following are symbols used for computation or logical comparison in a program?
+Identifiers
+Literals
+Keywords
+Operators
+Operators
+Which of the following is correct statement to computer square of variable x in python?
+x * 2
+x power 2
+x ** 2
+x // 2
+x ** 2
+Which of the following are symbols used in programming languages to organize statement structures and inidicate the rythm of the program?
+Operators
+Punctuators
+Functions
+Literals
+Punctuators
+In python, the single line comments starts with _______
+/
+//
+#
+”’
+#
+_______ are additional readable information to clarify the statement in python.
+Comments
+Expressions
+Tokens
+Flow of control
+Comments
+Which of the following is a group of statements which are part of another statement or functions?
+Expression
+Statement
+Block
+Comment
+Block
+All statements inside a block are inteded at same level.
+True
+ False
+Not necessarily
+Depends on user’s choice
+True
+By default the input() function returns
+Integer
+Float
+Boolean
+String
+String
+If a function does not return a value then what value will be returned by python in a function?
+int
+void
+bool
+none
+none
+The output of d= a + b % c is _________, if a = 12, b=5 and c=3.
+14
+2
+5
+17
+14
+Evaluate x % y // x, if x = 5, y = 4
+1.0
+0.0
+0
+1
+0
+Which of theese arithematic operator will evaluate first?
++
+–
+**
+%
+**
+Which of the followiing logical operator will evaluate first?
+and
+or
+not
+is not
+not
+How a>b>c will be interpreted by python?
+a>b or a>c
+a>b not a>c
+a>b and a>c
+a>b && a>c
+a>b and a>c
+Which of the followoing statement is correct for and operator?
+Python only evaluates the second argument if the first one is False
+Python only evaluates the second argument if the first one is True
+Python only evaluates True if any one argument is True
+Python only evaluates False if any one argument is False
+Python only evaluates the second argument if the first one is True
+Which of the following forces an expression to be converted into specific type?
+implicit type casting
+mutable type casting
+immutable type casting
+explicit type casting
+explicit type casting
+Mr Subodh is working with a dictionary in python for his project. He wants to display the key, value pair but confuse out of these statements, choose the correct statement for him:
+dict.values()
+disct.keys()
+dict.keysvalues()
+dict.items()
+dict.items()
+The fromkeys() method assigns ________ value to key in dictionary by default.
+0
+None
+Empty
+Blank
+None
+Which one of the following is the correct statement for creating a dictionary for assigning a day number to weekdays using short names?
+d ={1:Mon,2:Tue,3:Wed,4:Thur}
+d ={1:’Mon’,2:’Tue’,3:’Wed’,4:’Thur’}
+d ={1;’Mon’,2;’Tue’,3;’Wed’,4;’Thur’}
+d ={1-‘Mon’,2-‘Tue’,3-‘Wed’,4-‘Thur’}
+d ={1:’Mon’,2:’Tue’,3:’Wed’,4:’Thur’}
+Om is learning the concept of dictionary in python. He read something about a dictionary related to a set of elements. But he forgot the term which type of set of elements, suggest from the below-given options:
+sorted
+ordered
+unordered
+random
+unordered
+Eshika is trying to delete an element from the dictionary, but she is getting an error – “the given key is not found in the dictionary”. Which of the following command she has used in the python
+del dict[key]
+dict.pop(key)
+dict.popitem(key)
+remove dict[key]
+del dict[key]
+Which of the following is the correct statement for checking the presence of a key in the dictionary?
+<key> in <dictionary_object>
+<key> not in <dictionary_object>
+<key> found in <dictionary_object>
+<key> exists in <dictionary_object>
+<key> in <dictionary_object>
+Marks in the above-created dictionary are changed after rechecking, where Vishwa got 48 marks and Mayank got 49 marks. Choose the correct statement for the same:
+dict.change({‘Vishva’:48,’Mayank’:49})
+dict.alter({‘Vishva’:48,’Mayank’:49})
+dict.update({‘Vishva’:48,’Mayank’:49})
+dict.loc({‘Vishva’:48,’Mayank’:49})
+dict.update({‘Vishva’:48,’Mayank’:49})
+Aman wants to write a function in python. But he doesn’t know how to start with it! Select the keyword used to start a function out of the following:
+function
+start
+def
+fun
+def
+Which of the following is a valid function name?
+start_game()
+start game()
+start-game()
+All of the above
+start_game()
+Which of the following is not a part of the python function?
+function header
+return statement
+parameter list
+function keyword
+function keyword
+If the return statement is not used in the function then which type of value will be returned by the function?
+int
+str
+float
+None
+None
+The function header contains
+function name and parameters only
+def keyword along with function name and parameters
+return statement only
+parameter list only
+def keyword along with function name and parameters
+The subprogram that acts on data and returns the value sometimes is known as
+Function
+Module
+Class
+Package
+Function
+Richa is working with a program where she gave some values to the function. She doesn’t know the term to relate these values. Help her by selecting the correct option.
+function value
+arguments or parameters
+return values
+function call
+arguments or parameters
+Mohini wants to know that the symbol : (colon) must be required with which of the following function part?
+function header
+function body
+return statement
+parameters
+function header
+Which of the function part contains the instructions for the tasks to be done in the function?
+function header
+function body
+return statement
+parameters
+function body
+Ananya is trying to understand the features of python functions. She is not understanding the feature that distributes the work in small parts. Select the appropriate term for her out of the following:
+Modularity
+Reusability
+Simplicity
+Abstraction
+Modularity
+Which of the following is not a feature supported by python functions
+Modularity
+Reusability
+Simplicity
+Data Hiding
+Data Hiding
+Divya wants to print the identity of the object used in the function. Which of the following function is used to print the same?
+identity()
+ide()
+id()
+idy()
+id()
+Rashmin is learning the python functions He read the topic types of python functions. He read that functions already available in the python library is called ___________. Fill appropriate word in this blank :
+UDF (User Defined Function)
+Built-in Functions
+Modules
+Reusable Function
+Built-in Functions
